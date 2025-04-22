@@ -29,6 +29,7 @@ O foco deste projeto é para fixar mais o conceito de classes Abstratas e como a
     - Cuidado: regar e deixar ao sol
 
 - Métodos:
+    - Construtor
     - implementação de ``realizarCuidado()``: Zera os dias desde o último cuidado e exibe o que foi feito
     - Implementação de ``precisaDeCuidado()``: Exibe se a planta precisa de cuidado ou não
 
@@ -41,6 +42,7 @@ O foco deste projeto é para fixar mais o conceito de classes Abstratas e como a
     - Cuidado: borrifar água e manter na sombra
 
 - Métodos:
+    - Construtor
     - implementação de ``realizarCuidado()``
     - Implementação de ``precisaDeCuidado()``
 
@@ -53,5 +55,6 @@ O foco deste projeto é para fixar mais o conceito de classes Abstratas e como a
     - Cuidado: adubar e cuidar de pragas caso haja
 
 - Métodos:
+    - Construtor
     - implementação de ``realizarCuidado()``
     - Implementação de ``precisaDeCuidado()``

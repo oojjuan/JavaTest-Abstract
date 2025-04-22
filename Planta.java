@@ -28,4 +28,8 @@ public abstract class Planta {
     public int getDiasDesdeUltimoCuidado() {
         return diasDesdeUltimoCuidado;
     }
+
+    public void setDiasDesdeUltimoCuidado(int diasDesdeUltimoCuidado) {
+        this.diasDesdeUltimoCuidado = diasDesdeUltimoCuidado;
+    }
 }
